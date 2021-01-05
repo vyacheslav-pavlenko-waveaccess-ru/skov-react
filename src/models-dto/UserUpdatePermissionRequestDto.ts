@@ -1,4 +1,4 @@
 import { UserPermissionDto } from './UserPermissionDto';
-export interface UserUpdatePermissionRequest {
+export interface UserUpdatePermissionRequestDto {
     permission: UserPermissionDto;
 }
