@@ -5,5 +5,4 @@ export interface InvitationListItemDto {
     email: string;
     status: InvitationStatusDto;
     canDelete: boolean;
-
 }
